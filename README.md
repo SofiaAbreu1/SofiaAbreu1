@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá! Meu nome é Maria Sofia 👋
 
-<!--
-**SofiaAbreu1/SofiaAbreu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Seja bem-vindo ao meu perfil no Github 😁
 
-Here are some ideas to get you started:
+📕 Formada em Análise e Desenvolvimento de Sistema (Senac)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🔍 Atualmente estou fazendo o uso de linguagens e frameworks, como Python, PowerBI e React
+ - 👨‍💻 Estou fazendo pós graduação em análise de dados
+ - ⚡ Curiosidade: Amo esportes e assistir filmes.
+
+## Contato:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-sofia-abreu/)
