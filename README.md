@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Maria Sofia 👋
 
-### Seja bem-vindo ao meu perfil no Github 😁
+### Seja bem-vindo ao meu perfil no Github
 
 📕 Formada em Análise e Desenvolvimento de Sistema (Senac)
 
